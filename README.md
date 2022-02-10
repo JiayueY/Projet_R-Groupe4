@@ -1,1 +1,1 @@
-# Sudoku Game
+# Suduko Game
